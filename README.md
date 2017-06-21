@@ -6,4 +6,4 @@ This is some other stuff
 
 Made some changes on GitHub
 
-made some changes on a branch
+made some changes on a second branch
